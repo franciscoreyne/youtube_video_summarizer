@@ -1,6 +1,14 @@
 # **YouTube Video Summarizer (Python)**
 
 This script extracts subtitles from a YouTube video and summarizes them locally using a pre-trained model from Hugging Face (BART). The summary is capped at 4000 characters.
+
+<p align="center">
+  
+<img src="Summarizer_Youtube.png" alt="SALD-T" width="400"/>
+
+</p>
+
+
 This version of the code will work locally to extract subtitles from YouTube videos, summarize them using a model from Hugging Face, and return a summary.
 
 ### **Dependencies**

@@ -4,7 +4,7 @@ This script extracts subtitles from a YouTube video and summarizes them locally 
 
 <p align="center">
   
-<img src="Summarizer_Youtube.png" alt="SALD-T" width="400"/>
+<img src="Summarizer_Youtube3.png" alt="Youtube Summarizer" width="400"/>
 
 </p>
 
